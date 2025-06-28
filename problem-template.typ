@@ -33,8 +33,8 @@
       #text(size: 7pt, fill: black.opacify(-70%))[
         #align(center)[
           #show link: it => text(fill: blue.opacify(-50%), underline(offset: 2pt, it))
-          本文内容采用 #link("https://creativecommons.org/licenses/by-nc-sa/4.0/")[CC BY-NC-SA 4.0] 许可协议进行许可\
-          作者: #link("https://github.com/QuestionMarky")[QuestionMarky]
+          This article is licensed under the #link("https://creativecommons.org/licenses/by-nc-sa/4.0/")[CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)] license agreement.\
+          #link("https://github.com/QuestionMarky")[Author: https://github.com/QuestionMarky]
         ]
       ]
     ]
